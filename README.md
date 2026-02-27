@@ -1,128 +1,141 @@
-## Hi there 👋
-
-<!--
-**KARTHIKREDDY04/KARTHIKREDDY04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">Machine Learning Engineer | Software Developer | Final Year CSE</h3>
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Rokk am Karthikeya Reddy</h1>
+<h3 align="center">AI/ML Engineer | Full Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  <a href="mailto:Karthikreddykarthik.04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="mailto:yourmail@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="https://www.linkedin.com/in/karthikeya-reddy-rokkam-1ab3022a6">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen" />
+  <a href="https://github.com/KARTHIKREDDY04">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 Final Year B.Tech in Computer Science Engineering  
-- 🤖 Focused on Machine Learning & AI Systems  
-- 🧠 Strong in Data Structures & Algorithms  
-- 📊 Experienced in building predictive ML models  
-- 🌱 Exploring scalable backend systems & full-stack integration  
-- 🎯 Actively preparing for product-based & AI-focused roles  
+🎓 Final Year B.Tech CSE | CGPA: 8.66  
+💡 Strong foundation in Operating Systems, DBMS & Computer Networks  
+🤖 Building AI-powered real-world systems  
+🎨 UI/UX Intern at Knaptix  
+🏆 AIR 1480 – TCS CodeVita Season 11 (Round 2)  
+
+I specialize in combining **Machine Learning + System Design + Clean UI** to build intelligent, production-ready applications.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-### 📊 Machine Learning & Data
+### 🤖 AI / ML / Data
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-Data-blue?style=flat&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical-lightgrey?style=flat&logo=numpy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat&logo=scikit-learn">
+  <img src="https://img.shields.io/badge/NLP-DeepLearning-blueviolet?style=flat">
+  <img src="https://img.shields.io/badge/Pandas-DataAnalysis-black?style=flat&logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-Numerical-lightgrey?style=flat&logo=numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-blue?style=flat">
 </p>
 
-### 🌐 Web & Database
+### 🌐 Full Stack
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,html,css" />
 </p>
 
+### 🛢 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
 ### ⚙ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 💼 Experience
 
-### 🌍 Green Pulse – Sustainable Living ML Application
-- Integrated ML-based carbon footprint tracking
-- Data-driven sustainability recommendations
-- Combines environmental, social & economic metrics
+### 🎨 UI/UX Intern – Knaptix (Jan 2026 – Present)
 
-### 📊 TG EAMCET Rank Predictor
-- Built regression-based ML model
-- Feature engineering on academic performance data
-- Achieved strong prediction accuracy
-
-### 🏢 Placement Prediction Model
-- Supervised learning classification system
-- Used CGPA, IQ & skill-based metrics
-- Real-world dataset implementation
+- Designed user-centered wireframes in Figma  
+- Conducted usability testing & iterative refinement  
+- Collaborated with developers for feasibility alignment  
+- Improved design consistency across product modules  
 
 ---
 
-## 📈 GitHub Analytics
+## 🚀 Featured Projects
+
+### 🌍 GreenPulse – AI Sustainability App
+- ML-powered carbon footprint tracking  
+- Personalized eco-friendly recommendations  
+- Real-time analytics dashboard  
+
+---
+
+### 📚 Easy Search – Smart Research Assistant (LLM + NLP)
+- Automated research paper classification  
+- Deep learning-based title & abstract analysis  
+- REST API integrated full-stack architecture  
+
+---
+
+### 💻 Real-Time System Health Monitoring (AI Enhanced)
+- CPU, Memory, Disk monitoring (OS-level metrics)  
+- ML-based anomaly detection  
+- Event-driven Tkinter interface with alerts  
+
+---
+
+### 📈 Placement Prediction System
+- Supervised ML classification model  
+- Real-world academic dataset  
+- Data preprocessing + feature engineering pipeline  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KARTHIKREDDY04&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTHIKREDDY04&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Core Strengths
+## 🏆 Achievements
 
-✔ Problem Solving (DSA)  
-✔ Machine Learning Model Development  
-✔ Clean Code & Structured Project Design  
-✔ Analytical Thinking  
-✔ Continuous Learning Mindset  
+🥇 AIR 1480 – TCS CodeVita Season 11 (Round 2)  
+🎓 CGPA 8.66 – B.Tech CSE  
+🎨 UI/UX Internship Experience  
 
 ---
 
 ## 🎯 2026 Goals
 
-- Master Advanced Machine Learning Concepts  
-- Strengthen System Design Fundamentals  
-- Contribute to Open Source Projects  
-- Build Scalable AI-powered Applications  
+- Contribute to Open Source AI projects  
+- Strengthen System Design & Scalable Backend Skills  
+- Publish ML research-level implementations  
+- Secure high-impact AI/SDE role  
 
 ---
 
 ## 🤝 Let's Connect
 
-📩 Email: yourmail@email.com  
-🔗 LinkedIn: https://linkedin.com/in/your-link  
+📩 Email: Karthikreddykarthik.04@gmail.com  
+🔗 LinkedIn: linkedin.com/in/karthikeya-reddy-rokkam-1ab3022a6  
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore and connect!
+⭐ Passionate about building intelligent systems that create measurable impact.
