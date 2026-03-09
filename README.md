@@ -116,7 +116,7 @@ I specialize in combining **Machine Learning + System Design + Clean UI** to bui
 
 ## 🏆 Achievements
 
-🥇 AIR 1480 – TCS CodeVita Season 11 (Round 2)  
+🥇 AIR 1480 – TCS CodeVita Season 13 (Round 2)  
 🎓 CGPA 8.66 – B.Tech CSE  
 🎨 UI/UX Internship Experience  
 
