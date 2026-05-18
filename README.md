@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Rokk am Karthikeya Reddy</h1>
+<h1 align="center">Hi 👋, I'm Rokkam Karthikeya Reddy</h1>
 <h3 align="center">AI/ML Engineer | Full Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
