@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-🎓 Final Year B.Tech CSE | CGPA: 8.66  
+🎓 Final Year B.Tech CSE | CGPA: 8.71  
 💡 Strong foundation in Operating Systems, DBMS & Computer Networks  
 🤖 Building AI-powered real-world systems  
 🎨 UI/UX Intern at Knaptix  
