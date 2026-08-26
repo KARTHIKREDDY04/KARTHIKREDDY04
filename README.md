@@ -63,7 +63,7 @@ I specialize in combining **Machine Learning + System Design + Clean UI** to bui
 
 ## 💼 Experience
 
-### 🎨 UI/UX Intern – Knaptix (Jan 2026 – Present)
+### 🎨 UI/UX Intern – Knaptix (July 2025 – Present)
 
 - Designed user-centered wireframes in Figma  
 - Conducted usability testing & iterative refinement  
