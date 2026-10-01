@@ -22,7 +22,7 @@
 💡 Strong foundation in Operating Systems, DBMS & Computer Networks  
 🤖 Building AI-powered real-world systems  
 🎨 UI/UX Intern at Knaptix  
-🏆 AIR 1480 – TCS CodeVita Season 11 (Round 2)  
+🏆 AIR 1632 – TCS CodeVita Season 11 (Round 2)  
 
 I specialize in combining **Machine Learning + System Design + Clean UI** to build intelligent, production-ready applications.
 
